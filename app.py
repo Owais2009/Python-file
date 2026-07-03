@@ -9,7 +9,7 @@ print(Studentlist)
 
 # Task 2:
 Studentlist = ["Owais","Hassan","ALi","Bilal"]
-Studentlist[2:2] = ["Ahmed","Zain"]
+Studentlist[2:3] = ["Ahmed","Zain"]
 print(Studentlist)
 
 
